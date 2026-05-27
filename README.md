@@ -64,9 +64,3 @@ Responsive personal portfolio with dark theme, smooth animations, project showca
 ---
 
 *Open to collaborations, internships, and hackathons!*
-
-
-
-
-
--->
